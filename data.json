@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Se",
+      "pwd": "Ee",
+      "email": "se@co.com"
+    },
+    {
+      "id": 2,
+      "first_name": "St",
+      "pwd": "Pl",
+      "email": "st@co.com"
+    },
+    {
+      "email": "ss@gmail.com",
+      "password": "ss",
+      "password_confirmation": "ss",
+      "id": 3
+    },
+    {
+      "email": "sskh@gmail.com",
+      "password": "sskh",
+      "password_confirmation": "sskh",
+      "id": 4
+    },
+    {
+      "email": "nikhil@gmail.com",
+      "password": "nikhil",
+      "password_confirmation": "nikhil",
+      "id": 5
+    },
+    {
+      "email": "sh@gmail.com",
+      "password": "sh",
+      "password_confirmation": "sh",
+      "id": 6
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "sss",
+      "password_confirmation": "sss",
+      "id": 7
+    },
+    {
+      "email": "nikih@gmail.com",
+      "password": "nikih",
+      "password_confirmation": "nikih",
+      "id": 8
+    },
+    {
+      "email": "shh@gmail.com",
+      "password": "shh",
+      "password_confirmation": "shh",
+      "id": 9
+    }
+  ]
+}
